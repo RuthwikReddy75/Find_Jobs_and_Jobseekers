@@ -1,5 +1,5 @@
 
-# stealJobs
+# Find_jobs_And_Jobseekers
 A Job Application Portal built using MERN Stack during DASS course 2021. More details about the app can be found in the assignment pdf.
 
 # Setup
