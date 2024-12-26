@@ -1,6 +1,6 @@
 
 # Find_jobs_And_Jobseekers
-A Job Application Portal built using MERN Stack during DASS course 2021. More details about the app can be found in the assignment pdf.
+A Job Application Portal built using MERN Stack . More details about the app can be found in the assignment pdf.
 
 # Setup
 1. You need to have mongo database created to get this app running. You can create it on [atlas](https://www.mongodb.com/cloud/atlas/signup)
